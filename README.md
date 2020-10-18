@@ -11,3 +11,7 @@
 * Import the project into the IDE - Eclipse/IntelliJ
 * Use mvn install to build source the code
 * Start the spring boot tomcat server
+
+#### Launch the application ####
+
+http://localhost:8080/zomato/location?lat=129.9716&lon=70.5946
