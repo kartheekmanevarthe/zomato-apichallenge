@@ -1,7 +1,7 @@
 #### Application setup ####
 
 * This spring boot application allows us to consume the 3rd party rest API services exposed by Zomato.
-* [zomato-apichallenge] (git clone https://kartheekmanevarthe@bitbucket.org/nokiangage/zomato-apichallenge.git)
+* [zomato-apichallenge] (git clone https://kartheekmanevarthe@bitbucket.org/kartheekmanevarthe/zomato-apichallenge.git)
 
 #### installation and setting up the development environment ####
 
